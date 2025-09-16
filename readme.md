@@ -3,8 +3,6 @@
 </p>
 
 # 👋 Hi there! I'm Dwi Mutia
-
-I'm an Information Systems student passionate about Front-End Development, turning ideas into interactive and user-friendly experiences with clean and efficient code. Always exploring new web technologies, I love building innovative projects and crafting seamless user experiences. Check out my repos and let's create something awesome together! 😎🔥
  
 [![Instagram](https://img.shields.io/badge/Instagram-%23ff69b4.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_binturafiq) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23ff69b4.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@_binturafiq)
